@@ -1,6 +1,6 @@
 
 import './App.css';
-import Conteiner from './componentes/Conteiner';
+import Conteiner from './componentes/conteiner';
 import Formulario from './componentes/formulario';
 import Resume from './componentes/resume';
 

@@ -30,7 +30,7 @@ const Formulario = () => {
                 <div className="form-lab-in">
                     <label>Valor</label>
                     
-                    <input mask="(99)9999-999"value={amount} onChange={(e) => setAmount(e.target.value) }></input>
+                    <input value={amount} onChange={(e) => setAmount(e.target.value) }></input>
                 </div>
                 <div className="form-lab-in">
                     <label>Tipo</label>
