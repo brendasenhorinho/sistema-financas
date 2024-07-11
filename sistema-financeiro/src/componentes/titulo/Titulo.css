@@ -1,0 +1,21 @@
+.titulo{
+    display: flex;
+    justify-content: center;
+   
+}
+
+h2 {
+    font-size: 35px;
+    text-transform: uppercase;
+    background-color: #FFFF;
+    padding: 15px 30px;
+    box-shadow: 
+        inset 0 5px 3px rgba(0, 0, 0, 0.1), 
+        0 4px 6px rgba(0, 0, 0, 0.2);      
+    border-radius: 5px;
+    color: #424874;
+
+
+ 
+    
+}

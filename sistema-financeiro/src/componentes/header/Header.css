@@ -1,0 +1,38 @@
+.header-main {
+    background-color: #424874;
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-titulo {
+    display: flex;
+    align-items: center;
+    margin-right: 10px;
+    
+}
+
+.header-a {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+.header-main h1 {
+    font-size: 24px;
+    color: #FFFFFF;
+    font-weight: 400;
+   
+}
+
+ a {
+    font-size: 16px;
+    color: #FFFFFF;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    margin-right: 35px;
+    
+   
+}
